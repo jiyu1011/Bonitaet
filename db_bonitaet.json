@@ -1,0 +1,44 @@
+{
+  "kunden": [
+    {
+      "id": 1,
+      "vorname": "Max",
+      "nachname": "Mustermann",
+      "alter": 34,
+      "adresse": {
+        "strasse": "Musterstraße 10",
+        "plz": "12345",
+        "stadt": "Musterstadt",
+        "land": "Deutschland"
+      },
+      "email": "max.mustermann@example.com",
+      "einkommen": 5000,
+      "verbindlichkeiten": 1000,
+      "bonitaet": {
+        "kreditScore": 750,
+        "bonitaetsstatus": "gut",
+        "genehmigt": true
+      }
+    },
+    {
+      "id": 2,
+      "vorname": "Erika",
+      "nachname": "Mustermann",
+      "alter": 19,
+      "adresse": {
+        "strasse": "Beispielweg 15",
+        "plz": "54321",
+        "stadt": "Beispielstadt",
+        "land": "Deutschland"
+      },
+      "email": "erika.mustermann@example.com",
+      "einkommen": 3000,
+      "verbindlichkeiten": 2000,
+      "bonitaet": {
+        "kreditScore": 500,
+        "bonitaetsstatus": "schlecht",
+        "genehmigt": false
+      }
+    }
+  ]
+}
