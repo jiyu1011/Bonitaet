@@ -12,7 +12,6 @@
       "bonitaetsstatus": "gut",
       "genehmigt": true
       }
-    },
     {
       "id": 2,
       "vorname": "Erika",
@@ -21,11 +20,9 @@
       "email": "erika.mustermann@example.com",
       "einkommen": 3000,
       "verbindlichkeiten": 2000,
-      "bonitaet": {
       "kreditScore": 500,
       "bonitaetsstatus": "schlecht",
       "genehmigt": false
-      }
     }
   ]
 }
