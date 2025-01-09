@@ -8,10 +8,9 @@
       "email": "max.mustermann@example.com",
       "einkommen": 5000,
       "verbindlichkeiten": 1000,
-      "bonitaet": {
-        "kreditScore": 750,
-        "bonitaetsstatus": "gut",
-        "genehmigt": true
+      "kreditScore": 750,
+      "bonitaetsstatus": "gut",
+      "genehmigt": true
       }
     },
     {
@@ -23,9 +22,9 @@
       "einkommen": 3000,
       "verbindlichkeiten": 2000,
       "bonitaet": {
-        "kreditScore": 500,
-        "bonitaetsstatus": "schlecht",
-        "genehmigt": false
+      "kreditScore": 500,
+      "bonitaetsstatus": "schlecht",
+      "genehmigt": false
       }
     }
   ]
